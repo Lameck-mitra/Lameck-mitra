@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning RedHat OpenShift Development, Ethical Hacking and Prince2 (Project Management in controlled Environments)
 - 📫 How to reach me, lameckmbewe6@gmail.com
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can automate tasks faster than I can explain them! 🚀
 
 <!---
